@@ -2,6 +2,7 @@
 terraform script to provision rstudio connect on aws
 
 **Prior Steps**
+
 In order to trigger this terraform code we need an key-pair through which we can connect to the EC2 instance. Please create an key-pair in your aws account.
 steps to create key-pair
   1. go to the aws console
